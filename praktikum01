@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Muhammad Hanif Syahti</title>
+</head>
+<body bgcolor="#ffd95b" text="black">
+    
+    <h1 align="Center"><b>Curriculum Vitae</b></h1>
+    <hr/>
+    <img src="assets/Edit_0250.jpg" width="15%">
+    <br>
+    <div style="background-color: orange;">
+
+    <p>BIODATA</p>
+
+    <ol>
+        <li>Nama : Muhammad Hanif Syahti</li>
+        <li>Umur : 22</li>
+        <li>TTL : Bandung, 18 November 1999</li>
+        <li>Hobi : Bermusik</li>
+    </ol>
+    <br>
+
+    <p>JENJANG PENDIDIKAN</p>
+
+    <table border="1">
+        <thead>
+            
+                <th>Jenjang</th>
+                <th>Nama Sekolah</th>
+            
+        </thead>
+        <tbody>
+            <tr>
+                <td>SD</td>
+                <td>SD Islam Pondok Duta</td>
+            </tr>
+
+            <tr>
+                <td>SMP</td>
+                <td>SMPN 07 Depok</td>
+            </tr>
+
+            <tr>
+                <td>SMA</td>
+                <td>SMA Islam PB. Soedirman</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+
+    <p>Pendidikan Non Formal</p>
+
+    <ol>
+        <li>Higher Intermediate LIA</li>
+        <li>Kampung Inggris</li>
+    </ol>
+    
+    
+</body>
+</div>
+</html>
